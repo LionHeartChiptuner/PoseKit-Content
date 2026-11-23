@@ -2959,6 +2959,7 @@
         "magazineTypes": [
             "mColtSingle_45acp"
         ],
-        "poses": []
+        "poses": [],
+        "palmed": []
     }
 }
