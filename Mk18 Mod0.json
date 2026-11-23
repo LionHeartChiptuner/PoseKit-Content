@@ -1,0 +1,41 @@
+{
+    "format": "gt3poses",
+    "version": 2,
+    "name": "Mk18 Mod0",
+    "match": {
+        "itemIds": [
+            "Mk18Mod0"
+        ],
+        "objectNames": []
+    },
+    "hasTrigger": true,
+    "useGrabPos": false,
+    "grabPos": {
+        "p": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "r": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ]
+    },
+    "jointCount": 0,
+    "poses": [],
+    "noAutoCopy": false,
+    "parts": [],
+    "pump": {
+        "poses": []
+    },
+    "magazine": {
+        "itemIds": [],
+        "magazineTypes": [
+            "mNatoStanag_556"
+        ],
+        "poses": [],
+        "palmed": []
+    }
+}
